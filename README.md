@@ -118,6 +118,15 @@ A machine learning project that predicts future order volumes using historical s
 </p>
 
 ---
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjai-btech&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
 
 ## 💡 Quote
 
