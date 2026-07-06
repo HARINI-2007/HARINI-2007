@@ -122,7 +122,7 @@ A machine learning project that predicts future order volumes using historical s
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjai-btech&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARINI-2007&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
