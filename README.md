@@ -1,4 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Harini+M;B.Tech+Information+Technology+Student;Aspiring+Software+Developer;Java+%7C+Web+Developer;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+## 👩‍💻 About Me
+
+🎓 B.Tech Information Technology student at **Sri Manakula Vinayagar Engineering College (SMVEC)**
+
+💡 Passionate about Software Development, AI & Machine Learning, and Full Stack Web Development.
+
+🌱 Currently learning:
+- Java
+- React.js
+- Node.js
+- AI & Machine Learning
+- Database Management Systems
+
+🚀 I enjoy building real-world projects that solve practical problems and continuously improving my technical skills.
+
+🎯 Goal: To become a Software Engineer and contribute to innovative technology solutions.
 
 ## 💻 Tech Stack
 
@@ -27,22 +43,7 @@
 </p>
 
 </div>
-## 👩‍💻 About Me
 
-🎓 B.Tech Information Technology student at **Sri Manakula Vinayagar Engineering College (SMVEC)**
-
-💡 Passionate about Software Development, AI & Machine Learning, and Full Stack Web Development.
-
-🌱 Currently learning:
-- Java
-- React.js
-- Node.js
-- AI & Machine Learning
-- Database Management Systems
-
-🚀 I enjoy building real-world projects that solve practical problems and continuously improving my technical skills.
-
-🎯 Goal: To become a Software Engineer and contribute to innovative technology solutions.
 ## 🚀 Featured Projects
 
 ### 🌾 KrishiMithra
