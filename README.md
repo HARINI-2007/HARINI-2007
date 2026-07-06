@@ -64,3 +64,25 @@ A centralized college platform that streamlines campus activities by providing a
 A machine learning project that predicts future order volumes by analyzing historical sales data. The system helps businesses forecast demand, optimize inventory, and improve operational planning.
 
 **Tech Stack:** Python, TensorFlow, Machine Learning
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HARINI-2007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARINI-2007&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HARINI-2007&theme=tokyonight&hide_border=true" />
+</p>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harini-murugesan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:harinim2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
